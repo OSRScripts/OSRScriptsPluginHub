@@ -1,13 +1,13 @@
 [
   {
-    "internalName": "osrscripts-http",
-    "hash": "9e767bdd66e812db98d13f26d1fb4700e0e80c370f5078e32a5a399be105e33a",
+    "internalName": "osrscriptshttp",
+    "hash": "db29110028d25a8033a30075144f097ef7eb46f97b46c748d63dd6bc8da078a7",
     "size": 1909,
     "plugins": [
       "me.miquiis.OSRScriptsHTTPPlugin"
     ],
-    "displayName": "OSRScripts HTTP Plugin",
+    "displayName": "OSRScriptsHTTPPlugin",
     "description": "",
-    "provider": "osrscripts_http"
+    "provider": "osrscriptshttp"
   }
 ]
