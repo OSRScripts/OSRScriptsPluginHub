@@ -4,7 +4,7 @@
     "hash": "75AF9A8F61EAD69933BF9B181D9687AD33A9EF63CFB0833D6AFA8F484E15904D",
     "size": 21511,
     "plugins": [
-      "me.miquiis.OSRScriptsHTTPPlugin"
+      "me.miquiis.osrscriptshttp.OSRScriptsHTTPPlugin"
     ],
     "displayName": "OSRScriptsHTTPPlugin",
     "description": "",
