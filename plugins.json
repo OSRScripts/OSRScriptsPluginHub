@@ -1,13 +1,11 @@
-[
-  {
-    "internalName": "osrscriptshttp",
-    "hash": "1e66ef96e55dcf0e589966e127f3ec7df3f132613a508721f78a0088ae4fb192",
-    "size": 23670,
-    "plugins": [
-      "me.miquiis.osrscriptshttp.OSRScriptsHTTPPlugin"
-    ],
-    "displayName": "OSRScriptsHTTPPlugin",
-    "description": "",
-    "provider": "osrscriptshttp"
-  }
-]
+{
+  "internalName": "osrscriptshttp",
+  "hash": "1b0dff954152595d32567511e015f9e5a079121c8b9ef35f2b0af9273881e9e6",
+  "size": "28709",
+  "plugins": [
+    "me.miquiis.osrscriptshttp.OSRScriptsHTTPPlugin"
+  ],
+  "displayName": "OSRScriptsHTTPPlugin",
+  "description": "",
+  "provider": "osrscriptshttp"
+}
