@@ -9,5 +9,16 @@
     "displayName": "OSRScriptsHTTPPlugin",
     "description": "",
     "provider": "osrscriptshttp"
+  },
+  {
+    "internalName": "auto_thieving",
+    "hash": "7d0f77dda95d9556ddfb95d80bd84404374ee88a7adea0c625a8f67624a754ab",
+    "size": 91865,
+    "plugins": [
+      "me.miquiis.auto_thieving.AutoThievingPlugin"
+    ],
+    "displayName": "Auto Thieving",
+    "description": "",
+    "provider": "auto_thieving"
   }
 ]
