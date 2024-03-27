@@ -23,8 +23,8 @@
   },
   {
     "internalName": "auto_nightmare",
-    "hash": "58919dd43382e3e30be3fa8670c00fa5cb1a07bbaf78be9275fdf59bef2ade80",
-    "size": 96663,
+    "hash": "fb9a5d17cc3fcdcf71f292ea13804a2eaefd9c996b38c3868fc1c6703a01da3b",
+    "size": 97944,
     "plugins": [
       "me.miquiis.auto_nightmare.AutoNightmarePlugin"
     ],
