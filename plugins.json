@@ -20,5 +20,16 @@
     "displayName": "Auto Thieving",
     "description": "",
     "provider": "auto_thieving"
+  },
+  {
+    "internalName": "auto_nightmare",
+    "hash": "58919dd43382e3e30be3fa8670c00fa5cb1a07bbaf78be9275fdf59bef2ade80",
+    "size": 96663,
+    "plugins": [
+      "me.miquiis.auto_nightmare.AutoNightmarePlugin"
+    ],
+    "displayName": "Auto Nightmare",
+    "description": "",
+    "provider": "auto_nightmare"
   }
 ]
