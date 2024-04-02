@@ -34,8 +34,8 @@
   },
   {
     "internalName": "auto_pvm",
-    "hash": "e26daf4828e80c608ef575645e48274598fa92922f8cfa1ce72fad7f25b7c5e6",
-    "size": 93715,
+    "hash": "b230eca64c4763043e5d7d936e943fe0de48f1611725d7c2463dd99d72bee942",
+    "size": 94460,
     "plugins": [
       "me.miquiis.auto_pvm.AutoPvmPlugin"
     ],
